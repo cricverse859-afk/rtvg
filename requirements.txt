@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+cloudscraper
+beautifulsoup4
+opencv-python-headless
