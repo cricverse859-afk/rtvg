@@ -1,5 +1,4 @@
-pyrogram
-tgcrypto
+pyTelegramBotAPI
 cloudscraper
 beautifulsoup4
-opencv-python-headless
+requests
